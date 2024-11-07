@@ -1,59 +1,91 @@
-/* Estilos gerais */
-
-body {
+#equacoes-do-1grau-pagina {
+    background-color: #2980b9; /* Cor de fundo da página */
     font-family: Arial, sans-serif;
-    background-color: #8ac3f9;
-    color: #333;
-    margin: 0;
-    padding: 20px;
 }
 
 h1 {
-    color: #2b4c6d;
-    text-align: center;
-    font-size: 5.0em;
-}
-
-h2 {
-    color: #2980b9;
-    font-size: 3em;
-}
-
-h6{
-    color: white;
-    font-size: 2em;
-}
-
-p {
-    font-size: 1.5em;
-}
-
-ul {
-    list-style-type:none;
-    padding: 0;
-}
-
-li {
-    margin: 20px 0;
-}
-
-a {
-    color: #3cbfe7;
-    text-decoration: none;
-    font-size:x-large;
-}
-
-a:hover {
-    text-decoration:underline;
-}
-
-/* Estilos para as seções */
-section {
-    background-color: #fff;
-    padding: 20px;
-    margin-bottom: 20px;
+    color: white; 
+    text-align: center; 
+    border: 2px solid white; 
+    padding: 10px; 
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-/*Estilos para a pagina de equações do 1 grau*/
+    background-color: rgba(255, 255, 255, 0.3); 
 
+}
+
+
+iframe {
+    width: 80%;
+    max-width: 560px;
+    margin: 20px auto;
+    display:block;
+}
+
+#equacoes-do-2grau-pagina {
+    background-color: #2980b9; /* Cor de fundo da página */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white; 
+    text-align: center; 
+    border: 2px solid white; 
+    padding: 10px; 
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.3); 
+
+}
+
+
+iframe {
+    width: 80%;
+    max-width: 560px;
+    margin: 20px auto;
+    display:block;
+}
+
+#Funcoes {
+    background-color: #2980b9; /* Cor de fundo da página */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white; 
+    text-align: center; 
+    border: 2px solid white; 
+    padding: 10px; 
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.3); 
+
+}
+
+
+iframe {
+    width: 80%;
+    max-width: 560px;
+    margin: 20px auto;
+    display:block;
+}
+
+#Numerosreais {
+    background-color: #2980b9; /* Cor de fundo da página */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: white; 
+    text-align: center; 
+    border: 2px solid white; 
+    padding: 10px; 
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.3); 
+
+}
+
+
+iframe {
+    width: 80%;
+    max-width: 560px;
+    margin: 20px auto;
+    display:block;
+}
